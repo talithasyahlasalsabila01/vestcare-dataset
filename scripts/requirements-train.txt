@@ -1,0 +1,4 @@
+# Hanya dibutuhkan untuk 07_bandingkan_model.py (training/eval YOLO11n vs YOLO26n).
+# Tahap 1-6 (cleaning s.d. penyiapan dataset) tidak butuh ini -- lihat requirements.txt.
+ultralytics>=8.3
+torch>=2.1

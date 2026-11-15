@@ -1,0 +1,14 @@
+fitur,arti
+luas_px,area: jumlah piksel objek
+keliling_batas_px,perimeter: jumlah piksel batas (Acara 23)
+keliling_rantai_px,perimeter dari kode rantai (Acara 22)
+bentuk,keliling_batas^2 / luas
+circularity,4*pi*luas/keliling_batas^2 (1 = lingkaran)
+luas_rel,luas objek / luas gambar
+bbox_lebar,lebar kotak pembatas
+bbox_tinggi,tinggi kotak pembatas
+rasio_tw,tinggi / lebar kotak
+extent,luas / luas kotak pembatas
+solidity,luas / luas convex hull
+eksentrisitas,"0 = bulat, mendekati 1 = memanjang (dari momen citra)"
+qc,"terlalu_kecil (luas < 100 px atau luas_rel < 0,003) / ok"
