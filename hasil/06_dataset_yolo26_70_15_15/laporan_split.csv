@@ -1,0 +1,6 @@
+kelas,foto_asli_train,foto_asli_val,foto_asli_test,gambar_train,gambar_val,gambar_test,objek_train,objek_val,objek_test
+pohon,131,28,28,393,28,28,393,28,28
+lubang,221,48,48,442,48,48,721,90,78
+orang,87,18,18,348,18,18,456,33,26
+motor,154,33,33,462,33,33,603,44,46
+mobil,139,30,30,417,30,30,471,32,32

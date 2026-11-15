@@ -1,0 +1,8 @@
+preset=70-15-15 val_frac=0.15 test_frac=0.15 seed=0
+kelompok foto asli: train=732 val=157 test=157 (total 1046)
+rasio foto asli train:val:test = 70.0:15.0:15.0
+gambar (termasuk varian di train): train=2062 val=157 test=157
+val berisi varian augmentasi: False
+test berisi varian augmentasi: False
+kelompok bocor (ada di >1 sisi): 0
+robustness test: tidak dibuat (BUAT_ROBUSTNESS_TEST = False)

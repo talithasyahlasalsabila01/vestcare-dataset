@@ -1,0 +1,12 @@
+# dataset YOLO26 (deteksi kotak), split 70:15:15 (train:val:test)
+# 'path' sengaja tidak ditulis: Ultralytics memakai folder data.yaml ini sebagai akar dataset
+# test_robustness (jika ada) BUKAN bagian dari evaluasi utama -- panggil model.val(split='test_robustness') terpisah, jangan dicampur dengan angka mAP test.
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: pohon
+  1: lubang
+  2: orang
+  3: motor
+  4: mobil
